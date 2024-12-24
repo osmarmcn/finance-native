@@ -65,8 +65,5 @@ const styles = StyleSheet.create({
     marginEnd:14,
 
   },
-  itemTexto:{
-    fontSize:16,
-    color:'#fff',
-  }
+ 
 });
